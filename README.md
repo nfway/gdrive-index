@@ -10,9 +10,9 @@ After I fork this repo, I found some baidu.com code, and I remove them, for good
 
 1. Open any of the following links
 
-   - https://install.achirou.workers.dev
-   - https://goindex-quick-install.glitch.me
-   - https://goindex-install.herokuapp.com
+   - [ ] https://install.achirou.workers.dev
+   - [ ] https://goindex-quick-install.glitch.me
+   - [x] https://goindex-install.herokuapp.com
 
 2. Auth and get the code  
 
