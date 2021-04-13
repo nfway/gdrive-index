@@ -65,9 +65,11 @@ var authConfig = {
 };
 
 var themeOptions = {
-  cdn: "https://cdn.jsdelivr.net/gh/Aicirou/goindex-theme-acrou",
+  cdn: "https://cdn.jsdelivr.net/gh/nfway/gdrive-index",
+  //cdn: "https://cdn.jsdelivr.net/gh/Aicirou/goindex-theme-acrou",
   // 主题版本号
-  version: "2.0.8",
+  version: "1.1",
+  //version: "2.0.8",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
