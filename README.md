@@ -2,9 +2,10 @@
 
 Without hm.baidu.com , of course.
 
-## Remove Baidu.com code
+## Note
 
-After I fork this repo, I found some baidu.com code, and I remove them, for good reason.
+1. After I fork this repo, I found some baidu.com code, and I remove them, for good reason.
+2. You can change `[index.js](/blob/master/go2index)` line 71, from ` version: "1.1"` to ` version: "1.2"`
 
 ## How to
 
@@ -24,7 +25,7 @@ After I fork this repo, I found some baidu.com code, and I remove them, for good
 2. Create a [OAuth client ID](https://console.developers.google.com/apis/credentials/oauthclient)
 3. Install [rclone](https://rclone.org/downloads/) software locally
 4. Get `refresh_token ` with `rclone`
-5. Download `index.js` in https://github.com/nfway/gdrive-index/blob/master/go2index/ and replace `client_id`,`client_secret`,`refresh_token` for what you just got.
+5. Download `index.js` in https://github.com/nfway/gdrive-index/blob/master/go2index/ ,replace `client_id`,`client_secret`,`refresh_token` , change line 71 `version: "1.1"` into  `version: "1.2"`.
 6. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
 
 > If you write a good article and want to share it with others, please submit Issues and I will post the link here.
