@@ -4,8 +4,8 @@ Without hm.baidu.com , of course.
 
 ## Note
 
-1. After I fork this repo, I found some baidu.com code, and I remove them, for good reason.
-2. You can change `[index.js](blob/master/go2index)` line 71, from ` version: "1.1"` to ` version: "1.2"`
+1. After I fork this repo, I found some `baidu.com` code, I remove them, for good reason.
+2. You can change `index.js(blob/master/go2index)` line 71, from ` version: "1.1"` to ` version: "1.2"`
 
 ## How to
 
